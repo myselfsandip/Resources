@@ -14,3 +14,5 @@ Google OAuth2 : https://www.youtube.com/watch?v=Q0a0594tOrc
 Memory Management : https://youtu.be/TZ5a3gCCZYo?si=mlxr_YYkwp7WyjuF
 
 Let's build a CDN : https://youtu.be/8bDgWvyglno?si=yEAuPnbzLn72msiC
+
+I Built an AI Photo-Generating Project : https://youtu.be/3j8JLXDRf1c?si=qyO4HZdqiNL5uWDb
