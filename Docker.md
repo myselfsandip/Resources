@@ -230,3 +230,19 @@ $ docker run --name my-postgres -d -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpas
     ```bash
     $ docker compose download
     ```
+
+
+# Images vs Containers
+A Docker image is a blueprint or template that defines the environment and dependencies needed to run an application, essentially a snapshot of a specific state, while a Docker container is a running instance of that image, meaning it's the actual application running with its own isolated environment based on the image instructions; think of an image as a recipe and a container as the cooked meal based on that recipe. 
+Key differences:
+Mutability:
+Docker images are read-only, meaning they cannot be changed once created, while containers are mutable and can be modified while running. 
+Functionality:
+An image is used to create a container, and a container is used to run an application. 
+Storage:
+Images are stored in a registry (like Docker Hub) and can be shared easily, while containers exist on a specific host machine and are not directly shareable. 
+Example:
+Image:
+Imagine creating a Docker image for a simple web application. This image would include the necessary files for the application (code, libraries, configuration) and the operating system needed to run it.
+Container:
+When you "run" this image, a container is created, which is essentially a running instance of that web application, now accessible through a specific port on your host machine. 
