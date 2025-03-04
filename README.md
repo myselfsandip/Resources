@@ -3,6 +3,8 @@
 
 Python : https://youtu.be/jBzwzrDvZ18?si=qDH_zCbiNv1UZBIF
 
+Python Fast API : https://youtu.be/0sOvCWFmrtA?si=l5DhQX-h9FlPS-2Q
+
 JWT Refresh & Access Tokens : https://www.youtube.com/watch?v=4TtAGhr61VI
 
 DSA(Kunal Kushwaha) : https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
