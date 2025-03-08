@@ -1,6 +1,8 @@
 # Resources
 
 
+Jenkins CI/CD  : https://youtu.be/XaSdKR2fOU4?si=2MiJsFeoApA7x4ka
+
 Python : https://youtu.be/jBzwzrDvZ18?si=qDH_zCbiNv1UZBIF
 
 Python Fast API : https://youtu.be/0sOvCWFmrtA?si=l5DhQX-h9FlPS-2Q
