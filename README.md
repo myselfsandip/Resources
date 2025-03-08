@@ -26,3 +26,9 @@ Go : https://youtu.be/un6ZyFkqFKo?si=yLOAxjhIa3PKiaYR
 Drizzle vs Prisma : https://youtu.be/Fceni6cdYOk?si=pzd8rKAcp4mhwNVH
 
 GraphQL : https://youtu.be/5199E50O7SI?si=jVhARxFD_fh36a7p
+
+Shell Scripting : https://youtu.be/9Xl1ZTk3BQw?si=mG_McZm_GCKUG4Kv
+
+Linux : https://youtu.be/e01GGTKmtpc?si=iC77--AUoFzoPgcj
+
+Best Channel for Devops Stuffs : https://www.youtube.com/@TrainWithShubham/videos
