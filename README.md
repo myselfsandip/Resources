@@ -22,3 +22,5 @@ I Built an AI Photo-Generating Project : https://youtu.be/3j8JLXDRf1c?si=qyO4HZd
 Go : https://youtu.be/un6ZyFkqFKo?si=yLOAxjhIa3PKiaYR
 
 Drizzle vs Prisma : https://youtu.be/Fceni6cdYOk?si=pzd8rKAcp4mhwNVH
+
+GraphQL : https://youtu.be/5199E50O7SI?si=jVhARxFD_fh36a7p
